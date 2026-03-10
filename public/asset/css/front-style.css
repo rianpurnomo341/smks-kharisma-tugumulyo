@@ -1,0 +1,49 @@
+/* body {
+    overflow-x:hidden;
+} */
+
+/* navbar */
+.nav-item {
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid white;
+    margin-bottom: -2px;
+}
+
+.active {
+    border-bottom: 2px solid white;
+    margin-bottom: -2px;
+}
+
+/*jumbotron*/
+.jumbotron {
+    padding: 231px 0;
+    background-image: url(../../media-sistem/jumbotron.jpg);
+    background-size: cover;
+}
+
+/*panel*/
+div.panel {
+    margin-top: -85px;
+}
+
+img.float-left {
+    float: left;
+    margin-right: 8px;
+}
+
+div.col-md p {
+    font-size: 12px;
+    margin-top: -6px;
+}
+
+/* section custom */
+.cs-section {
+    min-height: 635px;
+}
+
+.bg-section-genap {
+    background-color: rgb(244, 255, 242);
+}
