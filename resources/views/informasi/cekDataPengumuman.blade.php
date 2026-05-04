@@ -27,7 +27,7 @@
                             </div>
                             @if ($message_show)
                                 <div class="px-5 py-3">
-                                    <h4 class="mb-3 ">{{ $message }}</h4>
+                                    <h4 class="mb-3 text-center">{{ $message }}</h4>
                                     <hr>
                                 
                                     @if($murid)
